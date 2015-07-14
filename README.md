@@ -1,0 +1,2 @@
+# R_Programming_Statistical_Machine_Learning
+The three files are the projects within my Statistical Machine Learning class with Peter Orbanz at Columbia University in 2012. The Perceptron r script trains a perceptron classifier to divide two classes of data in n dimenional space. The regression r script performs linear regression on a set of randomized data. Lastly, the image processing r script uses the multinomial EM algorithm on an input image to classify different features. 
